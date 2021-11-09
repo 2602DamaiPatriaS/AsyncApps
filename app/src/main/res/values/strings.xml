@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AsyncApps</string>
+
+    <string name="buttonGo">GO</string>
+    <string name="buttonGetData">Get Data</string>
+    <string name="TextInfo">Hello World!</string>
+
+    <string name="textStart">Starting</string>
+    <string name="textRun">Running</string>
+    <string name="textFinish">Completed</string>
+</resources>
